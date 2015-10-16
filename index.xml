@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marek Pobuda</title>
+    <link>http://www.marekpobuda.com/</link>
+    <description>Recent content on Marek Pobuda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://www.marekpobuda.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>http://www.marekpobuda.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marekpobuda.com/about/</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;btn btn-default&#34; href=&#34;http://www.marekpobuda.com/cv/marek_pobuda_zivotopis.doc&#34; role=&#34;button&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;emsp;Životopis&lt;/a&gt;&amp;emsp;
+&lt;a class=&#34;btn btn-default&#34; href=&#34;http://www.marekpobuda.com/cv/marek_pobuda_lebenslauf.doc&#34; role=&#34;button&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;emsp;Lebenslauf&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1&#34;&gt;
+    &lt;p class=&#34;text-justify&#34;&gt;
+    Študoval som operný spev na Cirkevnom Konzervatóriu v Bratislave v triede Prof. Vlasty Hudecovej a následne na Vysokej škole múzických umení v Bratislave v triede Prof. Dagmar Podkamenskej-Bezačinskej. Počas štúdia na VŠMU som sa predstavil v rámci operného štúdia, v Mozartových operách Figarova svadba, Don Giovanni a Čarovnej flaute ako Figaro, Don Giovanni a Papageno. A mnoho iných krásnych postáv.  Venujem sa interpretácii piesňovej tvorby, opere, operete a aj pop opere (tzv. operatic pop). Ako hostujúci solista posobím vo  viacerých operných scénach na Slovensku i v zahraničí. Spomeniem Slovenské národné divadlo ako Acmet v projekte operného štúdia Giovanni Paisiello Král Teodor v Benátkach. Paris v predstavení Charles Gounod Romeo a Júlia, nasleduje Štátna opera Banská Bystrica postavy  Mlynára v detskej opere Kocúr v čižmách a ako vedúci bandúrov v Cikerovom Jánošíkovi. Opera Leoša Janáčka v Brne ponúka nádherné detské predstavenie Čarokraj v ktorom stvárnujem hlavnú rolu ako Papouš, ktorá sa prevažne venuje interpretácii operného žánru. Pravidelne sa zúčastňujem na operných speváckych súťažiach (2. Miesto na šestnástom ročníku Medzinárodnej speváckej súťaži Imricha Godina vo Vrábloch).
+    &lt;/p&gt;
+
+    &lt;br&gt;
+
+    &lt;div class=&#34;thumbnail&#34;&gt;
+      &lt;img class=&#34;img-responsive&#34; src=&#34;http://www.marekpobuda.com/img/profile_foto_2015/DSC_4157cb.jpg&#34; alt=&#34;Marek Pobuda&#34; &gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.marekpobuda.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marekpobuda.com/contact/</guid>
+      <description>&lt;h2&gt;
+  &lt;i class=&#34;fa fa-phone&#34;&gt;&lt;/i&gt;&amp;nbsp;
+  &lt;a class=&#34;contact&#34; href=&#34;tel:+421-908-308-309&#34;&gt;+421 908 308 309&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2&gt;
+  &lt;span class=&#34;hidden-xs&#34;&gt;&lt;i class=&#34;fa fa-envelope-o&#34;&gt;&lt;/i&gt;&amp;nbsp;&lt;/span&gt;
+  &lt;a class=&#34;contact&#34; href=&#34;mailto:pobuda.marek@gmail.com&#34;&gt;pobuda.marek@gmail.com&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;div class=&#34;thumbnail&#34;&gt;
+  &lt;img class=&#34;img-responsive&#34; src=&#34;http://www.marekpobuda.com/img/profile_foto_2015/DSC_4200.jpg&#34; alt=&#34;Marek Pobuda&#34; &gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://www.marekpobuda.com/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marekpobuda.com/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repertoire</title>
+      <link>http://www.marekpobuda.com/repertoire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marekpobuda.com/repertoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://www.marekpobuda.com/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marekpobuda.com/schedule/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
