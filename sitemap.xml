@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.marekpobuda.com/</loc>
-    <priority>0</priority>
+    <loc>http://www.marekpobuda.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.marekpobuda.com/about/</loc>
+    <loc>http://www.marekpobuda.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -19,11 +19,21 @@
   </url>
   
   <url>
+    <loc>http://www.marekpobuda.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.marekpobuda.com/repertoire/</loc>
   </url>
   
   <url>
     <loc>http://www.marekpobuda.com/schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.marekpobuda.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
